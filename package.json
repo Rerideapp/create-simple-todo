@@ -1,0 +1,15 @@
+{
+  "name": "create-simple-todo",
+  "version": "1.0.0",
+  "description": "Create a simple todo list application. Users can add new todos, mark them as complete with a checkbox, and delete todos. Use a clean, modern design with good spacing. Add a header with the app title.",
+  "scripts": {
+    "start": "serve .",
+    "dev": "serve ."
+  },
+  "keywords": [
+    "cpos",
+    "generated"
+  ],
+  "author": "CPOS",
+  "license": "MIT"
+}
